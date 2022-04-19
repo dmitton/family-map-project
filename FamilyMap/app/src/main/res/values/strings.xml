@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Family Map</string>
+
+    <!-- Login Names -->
+    <string name="server_host">Server Host:</string>
+    <string name="server_port">Server Port:</string>
+    <string name="username">User Name:</string>
+    <string name="password">Password:</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="email">Email:</string>
+    <string name="gender">Gender:</string>
+
+    <!-- Login Buttons -->
+    <string name="register_button">Register</string>
+    <string name="sign_in_button">Sign In</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <!-- Map Event Marker Strings -->
+    <string name="marker_prompt">Click on a marker to see event details</string>
+
+    <!-- Person Specific Gender Strings -->
+    <string name="male_gender">Male</string>
+    <string name="female_gender">Female</string>
+
+    <!-- Event Expandable and Person Expandable Title -->
+    <string name="event_title">Life Events</string>
+    <string name="family_title">Family</string>
+
+    <!-- Menu Strings -->
+    <string name="search_menu">Search</string>
+    <string name="setting_menu">Settings</string>
+    <string name="settings_test">You pressed the Settings Button</string>
+    <string name="search_test">You pressed the Search Button</string>
+
+    <!-- Settings String -->
+    <string name="life_story">Life Story Lines</string>
+    <string name="life_story_description">SHOW LIFE STORY LINES</string>
+    <string name="family_tree">Family Tree Lines</string>
+    <string name="family_tree_descrip">SHOW FAMILY TREE LINES</string>
+    <string name="spouse_lines">Spouse Lines</string>
+    <string name="spouse_lines_descrip">SHOW SPOUSE LINES</string>
+    <string name="father_side">Father\'s Side</string>
+    <string name="father_side_descrip">FILTER BY FATHER\'S SIDE OF THE FAMILY</string>
+    <string name="mother_side">Mother\'s Side</string>
+    <string name="mother_side_descrip">FILTER BY MOTHER\'S SIDE OF THE FAMILY</string>
+    <string name="male_events">Male Events</string>
+    <string name="male_event_descrip">FILTER EVENTS BASED ON GENDER</string>
+    <string name="female_events">Female Events</string>
+    <string name="female_event_descrip">FILTER EVENTS BASED ON GENDER</string>
+    <string name="logout">Logout</string>
+    <string name="logout_descrip">RETURN TO LOGIN SCREEN</string>
+
+
+</resources>
